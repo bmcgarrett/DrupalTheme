@@ -87,15 +87,15 @@
 .sidebar-first #content {
   /* Span 4 columns, starting in 2nd column from left. */
   float: left;
-  width: 764px;
-  margin-left: 196px;
+  width: 600px;
+  margin-left: 275px;
   margin-right: -980px;
 }
 
 .sidebar-first .region-sidebar-first {
   /* Span 1 column, starting in 1st column from left. */
   float: left;
-  width: 176px;
+  width: 275px;
   margin-left: 0px;
   margin-right: -196px;
 }
