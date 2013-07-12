@@ -15,8 +15,11 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: mediumvioletred;
 }
+html {
+  background: url(../images/background.png) repeat;
+}
+
 
 #page {
 }
@@ -49,7 +52,8 @@ body {
 #logo { /* Wrapping link for logo */
   float: left; /* LTR */
   margin: 0;
-  padding: 10px 20px;
+  padding-top: 10px;
+  padding-right: 10px;
   max-height: 70px;
   max-width: 70px;
 }
@@ -65,11 +69,12 @@ body {
   margin: 0;
   font-size: 2em;
   line-height: 1.5em;
+  padding-top: 25px;
 
 }
 #site-name a:link,
 #site-name a:visited {
-  color: #0000ff;
+  color: #008000;
   text-decoration: none;
 }
 #site-name a:hover,

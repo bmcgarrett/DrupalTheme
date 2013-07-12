@@ -104,3 +104,7 @@ h2.block-title { /* Block title */
 
 #block-user-online { /* "Who's online" block for a list of the online users */
 }
+
+#block-search-form {
+    margin-left: 700px;
+}
